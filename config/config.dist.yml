@@ -1,0 +1,5 @@
+app:
+  service_port: 11020
+  handler_mode: "release"
+elasticsearch:
+  es_address: "http://localhost:9200"
